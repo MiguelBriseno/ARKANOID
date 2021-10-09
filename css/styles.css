@@ -11,7 +11,7 @@ html{
 .wrap{
     width: 100%;
     height: 100vh;
-    padding-top: 10%;
+    padding-top: 8%;
     background-image: url('../assets/img/space.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,9 +20,7 @@ html{
 .wrap #myCanvas{
     display: block;
     margin: 0 auto;
-    width: 640px;
-    height: 320px;
-    background-image: url('../assets/img/background.png');
-    background-repeat: no-repeat;
-    background-size: cover;
+    width: 800px;
+    height: 400px;
+    background-image: radial-gradient(#305cba, #122064);
 }
